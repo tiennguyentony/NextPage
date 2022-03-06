@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974522144758",
+    "project_id": "nextpage-f1e8b",
+    "storage_bucket": "nextpage-f1e8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974522144758:android:5aec24f0d29f743d2c99d7",
+        "android_client_info": {
+          "package_name": "com.example.nextpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974522144758-l1cflhv6a3d7fc7iqojh21a6rma006a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7fA9kGOrCzCfYnI4k0Lcg5xhqiyirP84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974522144758-l1cflhv6a3d7fc7iqojh21a6rma006a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
